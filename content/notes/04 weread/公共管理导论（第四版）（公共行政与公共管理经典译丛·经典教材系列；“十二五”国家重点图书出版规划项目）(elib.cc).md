@@ -5,6 +5,7 @@ author: "[澳]欧文·E·休斯（Owen E. Hughes） elib.cc"
 cover: https://res.weread.qq.com/wrepub/CB_5Gx38p3B03w86XA6YS_parsecover
 reviewCount: 0
 noteCount: 3
+title: 公共管理导论（第四版）（公共行政与公共管理经典译丛·经典教材系列；“十二五”国家重点图书出版规划项目）(elib.cc)
 isbn: null
 category: null
 ---
