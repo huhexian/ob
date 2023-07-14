@@ -2,12 +2,6 @@
 title: 💡Hu's Garden
 enableToc: false
 ---
+Hi, I'm Bruce and I built this digital garden on 14 July 2023 using [quartz](https://github.com/jackyzha0/quartz) and [Obsidian](https://obsidian.md/). I haven't figured out what to display with it yet, but I've put up notes I've written before using Obsidian.
 
-Test!
-
-展示图片外链效果
-
-![cover.webp](https://huhexian.s3.bitiful.net/2023/07/12/64aec1c9acb5e.webp)
-
-[[notes/Test|Test]]
-
+I'll continue to refine this digital garden, and if you want to know more about me, feel free to follow me on [Twitter](https://twitter.com/huhexian) and my [blog](https://zuofei.net).
