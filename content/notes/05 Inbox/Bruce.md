@@ -4,7 +4,7 @@ tag:
 - 
 ---
 ## 简介
-一名学习人力资源管理专业的大四学生，从2018年开始写博客，2022年接触知识管理与笔记应用，先后尝试使用 Flomo、Notion、Obsidian、OneNote 等软件搭建自己的[[数字花园]]，目前主力笔记软件为 Obsidian，以及正在使用的 TiddlyWiki。
+一名学习人力资源管理专业的大四学生，从2018年开始写博客，2022年接触知识管理与笔记应用，先后尝试使用 Flomo、Notion、Obsidian、OneNote 等软件搭建自己的[[notes/05 Inbox/数字花园]]，目前主力笔记软件为 Obsidian，以及正在使用的 TiddlyWiki。
 
 ## 更详细的自我介绍
 
