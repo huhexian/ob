@@ -1,14 +1,14 @@
 [404_message]
-other = "Hey! You look a little lost. This page doesn't exist (or may be private)."
+other = "施主🙏，你似乎抵达了一个不存在的页面。"
 
 [404_back]
-other = "↳ Let's get you home."
+other = "↳ 请从哪来回哪去。"
 
 [all_posts]
 other = "All {{.Title}}"
 
 [last_updated]
-other = "Last updated"
+other = "最近编辑于"
 
 [notes_count]
 other = "notes with this tag"
@@ -20,10 +20,10 @@ other = "showing first 10 results"
 other = "Tag"
 
 [backlinks]
-other = "Backlinks"
+other = "反向链接"
 
 [no_backlinks]
-other = "No backlinks found"
+other = "未发现反向链接"
 
 [home]
 other = "Home"
@@ -38,7 +38,7 @@ other = "Dark Mode"
 other = "Edit Source"
 
 [interactive_graph]
-other = "Interactive Graph"
+other = "内部链接关系图"
 
 [search]
 other = "Search"
@@ -50,16 +50,16 @@ other = "Search Icon"
 other = "Icon to open search"
 
 [recent_notes]
-other = "Recent Notes"
+other = "最近笔记"
 
 [first_3_notes]
 other = "first 3 {{ .notes }}"
 
 [search_for_something]
-other = "Search for something..."
+other = "支持标题及全文搜索..."
 
 [toc]
-other = "Table of Contents"
+other = "目录"
 
 [copyright]
 other = "Made by {{ .name }} using <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"
