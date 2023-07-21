@@ -1,13 +1,10 @@
 ---
 title: "8个tips学会「高质量陪伴」"
+tag:
+- 心理学
 ---
-## Metadata
-- Author：KnowYourself
-- Link：[8个tips学会「高质量陪伴」](https://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707310&idx=1&sn=5f5b2bbb6c53af935efce40b9f20faf5&chksm=9fc983eaa8be0afc93774bd067e65c448f595a6f7e2084eefc0872bf423d80acd34c7f270d64&mpshare=1&scene=1&srcid=0611fmK44UgOjHEszKdVKgpb&sharer_sharetime=1654908981201&sharer_shareid=0bebe4dacb689b82ff4fd8e1accc1b1a#rd)
-- Publisher：微信公众号
-- Date：2022-06-16 23:09
-- Tag： #心理学 #陪伴
-## Content
+[8个tips学会「高质量陪伴」](https://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707310&idx=1&sn=5f5b2bbb6c53af935efce40b9f20faf5&chksm=9fc983eaa8be0afc93774bd067e65c448f595a6f7e2084eefc0872bf423d80acd34c7f270d64&mpshare=1&scene=1&srcid=0611fmK44UgOjHEszKdVKgpb&sharer_sharetime=1654908981201&sharer_shareid=0bebe4dacb689b82ff4fd8e1accc1b1a#rd)
+
 高质量陪伴：简简单单的陪伴在缓解压力、治愈内心上，比实在的帮助有更好的效果（Rocks, 1987），陪伴能提升一个人的心理健康状况，缓冲一定的生活压力。
 
 高质量的陪伴不在于时长，**而在于两个人是否走心地共同度过那段时光**。
