@@ -1,0 +1,21 @@
+---
+title: Top Todo List
+tags:
+- 摘抄
+---
+
+[The top of my todo list.](http://www.paulgraham.com/todo.html)
+  
+一个从事临终关怀的护士，记录了病人临终前的遗憾。
+  - I wish I’d had the courage to live a life true to myself, not the life others expected of me. 我希望我有勇气过真实的生活，而不是别人对我期望的生活。
+  - I wish I hadn’t worked so hard. 我希望我不会那么辛苦地工作。
+  - I wish I’d had the courage to express my feelings. 我希望有勇气表达我的感受。
+  - I wish I had stayed in touch with my friends. 我希望能和朋友保持联系。
+  - I wish I had let myself be happier. 我希望能让自己更快乐。
+
+反过来想，如果不希望自己的人生留下遗憾，就将上面的5条临终遗憾作为自己的 Top Todo List。
+- 过属于自己的生活
+- 不要辛苦工作
+- 勇敢表达想法
+- 交朋友并保持联系
+- 更加快乐
