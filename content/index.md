@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
-tags: 
+title: Welcome to my garden
+tags:
 ---
 
 本站是 [[Bruce]] 使用 [[Obsidian]] 搭建的[[数字花园]]，你也可以理解我的个人 Wiki，托管于 CloudCone。
